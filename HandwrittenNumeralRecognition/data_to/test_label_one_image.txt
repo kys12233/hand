@@ -1,0 +1,1 @@
+F:\Data_Set\HandwrittenNumeralRecognition\mnist_test\0\10.png,0
