@@ -1,0 +1,20 @@
+#解压文件到指定目录 ：
+例：tar -zxvf studio.tar.gz  -C /tmp/extract/
+实战：tar -zxvf cmake-3.27.7-linux-x86_64.tar.gz
+
+
+#解压文件
+tar -zxvf opencv-4.8.0.zip
+
+
+
+#创建软链接： ln
+ln -sf /home/keys/Env/Cmake/cmake-3.27.7-linux-x86_64/bin/* /usr/local/bin/
+
+
+git config --global user.email "2974755571@qq.com"
+git config --global user.name "kys"
+
+
+#安装make
+sudo apt install make
